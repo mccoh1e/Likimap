@@ -1,4 +1,4 @@
-# Specification
+# Example of Specification
 
 ***
 
