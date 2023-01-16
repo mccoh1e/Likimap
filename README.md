@@ -1,4 +1,4 @@
-# Likimap
+# Specification
 Real-Estate-Platform
 # REGISTRATION
 ## **Email**
